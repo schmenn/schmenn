@@ -2,6 +2,8 @@
  [discordcxx]: https://github.com/discord-cxx/discord-cxx
 
 <img alt="banner" src="https://media.discordapp.net/attachments/755111236680548405/761311591974043658/logo-banner-blur.png?width=1440&height=504" />
+[![Schmenn's github stats](https://github-readme-stats.vercel.app/api?username=Schmenn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Schmenn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hi there, I'm Ben
 
